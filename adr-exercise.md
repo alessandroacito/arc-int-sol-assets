@@ -6,7 +6,7 @@ Usage of Queues
 
 ## Decision
 
-Decision to use JMS Queues to store the intiial load of data from MY SQL into the queues
+Decision to use JMS Queues to store the initial load of data from MySQL DB into the queues
 
 ## Status
 
@@ -14,7 +14,7 @@ Accepted
 
 ## Consequences
 
-The source system MYSQL might not be updated on the actual status of the records processed.
+The source system MySQL might not be updated on the actual status of the records processed.
 
 ## Related documents
 
